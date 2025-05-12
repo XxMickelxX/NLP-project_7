@@ -1,6 +1,6 @@
 # Projects_NLP
 Projects related to Natural Language Processing (NLP) Course
-1. **Project Name**: Replace `News Classification`
+1. **Project Name**:  `News Classification`
 2. **Team**: `Ahmed Abdelnasser` ,`Mikel Somael`,`John Ashraf`,`Abdelrahman Said`,`Mahmoud Samy`
 3. **Description**: In this project, we focus on developing a neural language processing system for
 classifying news articles as either real (1) or fake (0). The project utilizes a
