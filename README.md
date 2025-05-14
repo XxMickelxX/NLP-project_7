@@ -10,4 +10,3 @@ learning models.
 5. **Machine Learning and Deep Learning Models in Project**: The project uses four types of machine learning (Random Forest , Logistic Regression , Naive Bayes , Linear SVM ) and two deep learning model (LSTM and PyTorch) for different tasks.
 6. **Results** The performance is above 94% and we calculate the ROC-Curve, a confusion matrix and (accuracy, precision, Recall and F1-score).
 7.  **Contact**: 01127270752
-8.  ahmed abdelnasser task for problrm of tensor library : https://colab.research.google.com/drive/1xZfyz1FZnW1CkxG-0FD1Z5rRmJDPOx3x?usp=sharing
